@@ -1,0 +1,38 @@
+Ecoder Izquierdo
+fase A -- GPIO 42
+fase B -- GPIO 41
+
+Ecoder Derecho
+fase A -- GPIO 40
+fase B -- GPIO 39
+
+Pulsador Calibrar -- GPIO 38
+Led calibrar -- GPIO 47
+
+Pulsador START -- GPIO 48
+Led Star -- GPIO 21
+
+Puente H TB6612
+Pwma -- GPIO15
+Ain1 -- GPIO 17
+Ain2 -- GPIO 16
+Stby -- 3.3v
+Bin1 -- GPIO 18
+Bin2 -- GPIO 8
+Pwmb -- GPIO14
+
+QTRA
+d1 -- GPIO 4
+d2 -- GPIO 5
+d3 -- GPIO 6
+d4 -- GPIO 7
+d5 -- GPIO 3
+d6 -- GPIO 9
+d7 -- GPIO 2
+d8 -- GPIO 1
+
+GIROSCOPIO
+SCK -- GPIO 12
+MOSI -- GPIO 11
+MISO -- GPIO 13
+CS -- GPIO 10
