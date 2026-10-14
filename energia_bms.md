@@ -8,10 +8,10 @@ Este documento detalla la arquitectura, el cableado y el funcionamiento del sist
 
 A continuacion, se presentan los componentes principales del subsistema de energia:
 
-![Baterias Li-Ion 18650](https://m.media-amazon.com/images/I/61Nl8a02aEL.jpg)
+![Baterias Li-Ion 18650](imagenes/bateria_18650.jpg)
 *Figura 1: Celdas cilindricas de Iones de Litio (Li-Ion) tamaño 18650 (3.7V - 2600mAh).*
 
-![Modulo BMS 3S 20A](https://m.media-amazon.com/images/I/61y8B34g4xL.jpg)
+![Modulo BMS 3S 20A](imagenes/modulo_3s.jpg)
 *Figura 2: Modulo BMS 3S 20A utilizado para la proteccion y balanceo de carga de las celdas en serie.*
 
 ---
