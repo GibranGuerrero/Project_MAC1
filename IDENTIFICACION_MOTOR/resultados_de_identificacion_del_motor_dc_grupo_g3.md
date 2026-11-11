@@ -9,7 +9,7 @@
 ## 1. Fotografía del montaje experimental
 
 El robot se acondicionó sobre un soporte elevado manteniendo ambas ruedas motrices completamente en el aire y libres de rozamiento con la superficie de trabajo durante todos los ensayos.
-![Robot en el soporte](fotosoporte.jpg)
+![Robot en el soporte](fotosoporte.jpeg)
 
 ## 2. Tabla resumen de parámetros identificados
 
